@@ -25,7 +25,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Select Unit"
+            android:text="Wybierz jednostkę"
             android:id="@+id/button"
             android:onClick="change1Unit"
             android:layout_weight="2"/>
@@ -56,7 +56,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Select Unit"
+            android:text="Wybierz jednostkę"
             android:id="@+id/button2"
             android:onClick="change2Unit"
             android:layout_weight="2"/>
@@ -88,7 +88,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Category"
+            android:text="Kategoria"
             android:id="@+id/button4"
             android:layout_weight="1"
             android:onClick="changeCategory"/>
@@ -96,7 +96,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Convert!"
+            android:text="Konwertuj!"
             android:id="@+id/button3"
             android:onClick="count"
             android:layout_weight="1"/>
